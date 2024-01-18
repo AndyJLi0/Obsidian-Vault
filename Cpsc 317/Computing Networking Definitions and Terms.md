@@ -21,4 +21,9 @@ Rates at which data is sent is in X **Bits*** per second. (Kbps, Mbps, Gbps, Tbp
 	- Bytes per second or bites per second
 - **Goodput:** rate at which *useful* data arrives. We ignore headers, encoding costs, data loss, etc.
 	- "My file downloads at 10MB/s", this talks about **ONLY** the file, not its headers and other info. Therefore, 10MB/s would be the goodput, and the throughput would actually be more.
-- 
+
+>[!info] This is just a test
+>bruh
+>okay
+>im going to die
+>hi

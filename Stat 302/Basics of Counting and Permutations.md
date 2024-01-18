@@ -10,7 +10,7 @@ then: $$\text{total number of outcomes}  = n_1 \times  n_2$$
 (assuming the outcome of the first event does not effect the outcome of the second event)
 # Permutations
 
-**[[Permutation]]**: A permutation of a set is an arrangement of its elements in a linear order.
+**[[Permutations]]**: A permutation of a set is an arrangement of its elements in a linear order.
 Consider the set $A = \{1, 2, 3, 4, 5\}$
 Permutations include: $( 5, 4, 3, 2, 1), ( 2, 3, 3, 5,1)$, etc.
 
