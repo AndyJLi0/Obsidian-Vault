@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1cd611410865e760",
+        "id": "9188c1d5f7a268b5",
         "type": "tabs",
         "children": [
           {
-            "id": "96cdec6639c0491d",
+            "id": "f190af732f1330b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpsc 320/Stable Matching Pro blem.md",
+                "file": "Cpsc 313/y86 Pipelining.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cpsc 320/Stable Matching Pro blem.md",
+                "file": "Cpsc 313/y86 Pipelining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cpsc 320/Stable Matching Pro blem.md",
+                "file": "Cpsc 313/y86 Pipelining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cpsc 320/Stable Matching Pro blem.md"
+                "file": "Cpsc 313/y86 Pipelining.md"
               }
             }
           },
@@ -138,24 +138,64 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "96cdec6639c0491d",
+  "active": "f190af732f1330b8",
   "lastOpenFiles": [
+    "Cpsc 313/Execution in Detail.md",
+    "Cpsc 313/y86 Instructions.md",
+    "Cpsc 313/y86 Implementation Details.md",
+    "Cpsc 313/y86 Buffer Overflow.md",
+    "Cpsc 313/y86 Pipelining.md",
+    "Assets/Request-Response Diagram.png",
+    "Untitled.canvas",
+    "pipelineExample.md",
+    "Pasted image 20240124134459.png",
+    "Assets/DNS Lookup 1.png",
+    "Assets/DNS Hierarchy 1.png",
+    "Cpsc 317/The DNS Protocol.md",
+    "Assets/pipelineExample.png",
+    "Untitled.md",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Cpsc 317/Application-Layer Protocols.md",
+    "Cpsc 317/Computing Networking Definitions and Terms.md",
+    "Cpsc 317/Cookies.md",
+    "README.md",
+    "TLD.md",
+    "Assets/y86 implementation.png",
+    "The DNS Protocol 1.md",
+    "Cpsc 317/The HTTP Protocol.md",
+    "Stat 302/Basics of Counting and Permutations.md",
+    "Stat 302/Combinations.md",
+    "Stat 302/Set Operations, Axioms, and Formulas.md",
+    "Stat 302/Permutations.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Cpsc 320/Reduction.md",
+    "Cpsc 320/Stable Matching Problem.md",
+    "Assets",
+    "2024-01-22.md",
+    "Untitled 1.canvas",
+    "Cpsc 317/more delay worked problems.md",
+    "Cpsc 317/Sockets.md",
+    "Cpsc 317/Packet Switching and Circuit Switching.md",
+    "Cpsc 317/The OSI Model.md",
     "remote/plugins/obsidian-style-settings/styles.css",
     "remote/plugins/obsidian-style-settings/manifest.json",
     "remote/plugins/obsidian-style-settings/main.js",
@@ -164,38 +204,6 @@
     "remote/plugins/obsidian-git/manifest.json",
     "remote/plugins/obsidian-git/main.js",
     "remote/plugins/obsidian-git/data.json",
-    "remote/plugins/dataview/styles.css",
-    "remote/plugins/dataview/manifest.json",
-    "remote/plugins/dataview/main.js",
-    "Reduction.md",
-    "remote/Cpsc 320/Stable Matching Pro blem.md",
-    "remote/Stat 302/Basics of Counting and Permutations.md",
-    "remote/Stat 302/Permutations.md",
-    "2024-01-16.md",
-    "remote/Stat 302/Set Operations, Axioms, and Formulas.md",
-    "remote/Stat 302/Probability Theory.md",
-    "remote/Cpsc 317/Bottlenecks and Delay.md",
-    "Welcome.md",
-    "remote/Cpsc 317/Computing Networking Definitions and Terms.md",
-    "remote/Cpsc 313/y86 Buffer Overflow.md",
-    "remote/Cpsc 317/Packet Switching and Circuit Switching.md",
-    "remote/Cpsc 317/more delay worked problems.md",
-    "remote/Cpsc 313/y86 Instructions.md",
-    "remote/Stat 302/Untitled.md",
-    "remote/Cpsc 313/Working with.md",
-    "remote/README.md",
-    "remote/yello.md",
-    "Untitled.canvas",
-    "Untitled.md",
-    "remote/this is a test.md",
-    "main/hello.md",
-    "main/Welcome.md",
-    "main/2024-01-16.md",
-    "main/Stat 302/Set Operations, Axioms, and Formulas.md",
-    "main/Stat 302/Probability Theory.md",
-    "Untitled 4.canvas",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas"
+    "remote/plugins/dataview/styles.css"
   ]
 }

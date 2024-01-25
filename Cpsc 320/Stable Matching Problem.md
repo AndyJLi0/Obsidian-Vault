@@ -40,3 +40,10 @@ endfunction
 |h2: r2 r1 r3 |- - - - |r2: h1 h2|
 |h2: r2 r1 r3 |- - - - |r3: h1 h2|
 - Now since we split up h2 into 2 separate copies, to change this instance of SMP back to RHP, we combine the h2 back into 1 hospital. Thus we have successfully completed our reduction.
+#### Proof of Correctness
+- Want to prove that if $B$'s solution is stable, $RHP$'s solution is stable, or the contrapositive: if $RHP$'s solution is unstable, then $B$'s solution is unstable.
+
+$Proof$.
+- Suppose for contradiction that $(h_j, r_j)$ is an instability for $M_a$. Then $r_j$ prefers $h_i$ for some $i$ over $h_j$. and $h_j$ prefers $r_i$ for some $i$ over *any* of its residents. 
+- So, in our instance of $M_b$, it is true that $(h_j^k, r_j)$ is an instability as well since $r_j$ prefers not just another $h_j^l$, but some $h_i^k$ for some $k$ and some $i$ (the subscript is different). since $h_j \rightarrow h_j^k$ in $M_b$, then $h_j^k$ prefers a different resident than $r_j$ and therefore there is an instability in $M_b$. $\square$
+

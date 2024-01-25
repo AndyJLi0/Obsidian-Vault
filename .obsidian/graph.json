@@ -5,18 +5,47 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Cpsc 313\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"Cpsc 317\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"Cpsc 320\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"Stat 302\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.0953125,
   "lineSizeMultiplier": 0.840104166666667,
   "collapse-forces": false,
-  "centerStrength": 0.666666666666667,
-  "repelStrength": 10,
+  "centerStrength": 0.533854166666667,
+  "repelStrength": 10.2083333333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.1316872427983545,
-  "close": true
+  "linkDistance": 307,
+  "scale": 0.7224714768027612,
+  "close": false
 }

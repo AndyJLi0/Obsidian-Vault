@@ -12,5 +12,7 @@
 - Assume that you can transmit packets back-to-back. What is the throughput?
 	- throughput == bandwidth if back-to-back so it would be $100Mbps$
 - Assume that you don’t transmit the n+1st packet until you get a (very short) ACK for the nth packet. What is the throughput?
-	- We transmit 1 packet (1300 * 8) bits every 2.504 ms. (rt delay). Convert to $Mbps$ to get $$\frac{10400}{2.504} \times \frac{1000}{1e6} = 4.153 \text{ Mbps}$$
+	- We transmit 1 packet (1300 * 8) bits every 2.504 ms. (rt delay). Convert to $Mbps$ to get
+	- $$\frac{10400}{2.504}* \frac{1000}{1e6} = 4.153\text{Mbps}$$
+	- 
 ---
