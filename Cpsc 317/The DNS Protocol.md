@@ -76,3 +76,13 @@ In step 2, every Local DNS server contacts the Root Server, and so there will be
 		- **Authority** RRs are the NS records pointing to name servers that are closes to the target name, redirecting a client to a 'better' server. Optional field.
 		- **Additional** RRs are records that the name server believes may be useful to the client.
 - Resolution is almost always "iterative"
+### DNS questions
+-  What is the purpose of the ‘AA’ (Authoritative Answer) flag in a DNS response?
+	- The 'AA' flag indicates whether the server responding to the DNS query is authoritative.
+- What is DNS name compression?
+	- A technique used so that responses and messages for a DNS query isn't too long with all the domain names. It removes duplicate information. Instead of duplicate ASCII encodings, only pointers to the duplicate ASCII is in the message.
+- Difference between an 'A' record and a 'CNAME' record?
+	- 'A' record maps a domain name to its corresponding Ipv4 address. Translates human readable domain names to IP addresses!
+	- **For 'A', the resolution process is simple.** There's no additional lookups required.
+	- A 'CNAME' is a Canonical Name Record. It maps from an alias name to a true or canonical domain name. This target domain has its own 'A' address.
+	- **For 'CNAME', additional lookups are required for resolution.**

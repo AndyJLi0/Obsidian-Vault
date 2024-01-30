@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9188c1d5f7a268b5",
+        "id": "1f98eb60083f4a2c",
         "type": "tabs",
         "children": [
           {
-            "id": "f190af732f1330b8",
+            "id": "2b2512e24e06d4b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cpsc 313/y86 Pipelining.md",
+                "file": "2024-01-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cpsc 313/y86 Pipelining.md",
+                "file": "2024-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cpsc 313/y86 Pipelining.md",
+                "file": "2024-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cpsc 313/y86 Pipelining.md"
+                "file": "2024-01-22.md"
               }
             }
           },
@@ -155,47 +155,48 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f190af732f1330b8",
+  "active": "2b2512e24e06d4b1",
   "lastOpenFiles": [
+    "README.md",
+    "TLD.md",
+    "2024-01-22.md",
+    "Assets/y86 rearranged.png",
+    "Cpsc 313/Pipeline Registers and Pipeline Stalling.md",
+    "Cpsc 317/Computing Networking Definitions and Terms.md",
+    "Cpsc 317/Peer To Peer Applications.md",
+    "Cpsc 317/Packet Switching and Circuit Switching.md",
+    "Cpsc 317/Sockets.md",
+    "Cpsc 317/The HTTP Protocol.md",
+    "Cpsc 317/more delay worked problems.md",
+    "Cpsc 317/internet.md",
+    "Cpsc 317/Cookies.md",
+    "Cpsc 320/Divide and Conquer.md",
+    "Cpsc 313/y86 Pipelining.md",
+    "Cpsc 317/The DNS Protocol.md",
+    "Cpsc 317/The E-Mail Protocol.md",
+    "Stat 302/Conditional Probability.md",
+    "Stat 302/Set Operations, Axioms, and Formulas.md",
+    "Stat 302/Basics of Counting and Permutations.md",
+    "Stat 302/Probability Theory.md",
     "Cpsc 313/Execution in Detail.md",
     "Cpsc 313/y86 Instructions.md",
     "Cpsc 313/y86 Implementation Details.md",
     "Cpsc 313/y86 Buffer Overflow.md",
-    "Cpsc 313/y86 Pipelining.md",
     "Assets/Request-Response Diagram.png",
     "Untitled.canvas",
     "pipelineExample.md",
     "Pasted image 20240124134459.png",
     "Assets/DNS Lookup 1.png",
     "Assets/DNS Hierarchy 1.png",
-    "Cpsc 317/The DNS Protocol.md",
     "Assets/pipelineExample.png",
-    "Untitled.md",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Cpsc 317/Application-Layer Protocols.md",
-    "Cpsc 317/Computing Networking Definitions and Terms.md",
-    "Cpsc 317/Cookies.md",
-    "README.md",
-    "TLD.md",
     "Assets/y86 implementation.png",
-    "The DNS Protocol 1.md",
-    "Cpsc 317/The HTTP Protocol.md",
-    "Stat 302/Basics of Counting and Permutations.md",
-    "Stat 302/Combinations.md",
-    "Stat 302/Set Operations, Axioms, and Formulas.md",
-    "Stat 302/Permutations.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "Cpsc 320/Reduction.md",
-    "Cpsc 320/Stable Matching Problem.md",
     "Assets",
-    "2024-01-22.md",
     "Untitled 1.canvas",
-    "Cpsc 317/more delay worked problems.md",
-    "Cpsc 317/Sockets.md",
-    "Cpsc 317/Packet Switching and Circuit Switching.md",
-    "Cpsc 317/The OSI Model.md",
     "remote/plugins/obsidian-style-settings/styles.css",
     "remote/plugins/obsidian-style-settings/manifest.json",
     "remote/plugins/obsidian-style-settings/main.js",
