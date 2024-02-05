@@ -1,7 +1,7 @@
 {
-  "accentColor": "#9f1d44",
+  "accentColor": "#1d9f90",
   "theme": "system",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Minimal",
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "extended-colorschemes"

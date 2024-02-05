@@ -1,3 +1,4 @@
+#cpsc313 #sequential
 #### Resgisters
 The y86 has 15 registers, important registers include %rsp (the stack pointer), %ra (where we put our return value), and %rbp (the base pointer of a stack frame).  Registers store 8 bytes maximum, with the PC counter (a special resgister), being able to store 10 bytes. It stores the immediate next instrcution to execute.
 #### Condition Codes and Status Registers

@@ -1,3 +1,4 @@
+#sequential #cpsc313 
 ![[y86 implementation.png]]
 - **icode/ opcode** tells you how long the instruction is. (1,2,9,10 bytes?)
 - The **oval** values are just signals on the wire. 

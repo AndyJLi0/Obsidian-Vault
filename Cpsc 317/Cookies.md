@@ -1,3 +1,4 @@
+#HTTP #cpsc317 #caching
 ## Per-User State
 - Web sites may use cookies to maintain state
 	- "Remember me" authentication

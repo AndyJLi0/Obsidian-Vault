@@ -1,3 +1,4 @@
+#protocol #Cpsc317 #applilcationLayer 
 *This not identifies and describes the roles of various components and protocols of email, trace an email protocol, describe and compare STMP, POP3, IMAP, and how they're used*
 
 ### A Case Study

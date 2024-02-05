@@ -1,4 +1,4 @@
-*edited 2024-01-17*
+#applilcationLayer #cpsc317 #definitions*edited 2024-01-17*
 ___
 
 *What is a bottleneck?*
@@ -38,4 +38,5 @@ ___
 #### Traffic Intensity VS Queueing Delay
 - when traffic intensity becomes large, our queueing delay grows exponentially. So if $La > R$ we have an issue, but if $La >> R$ (traffic intensity greater than 1) is a complete disaster.
 - formally: $$ \text{Total Delay} = \frac{S}{1 - U}$$ where $(S)$ is average service time when server is idle. $(U)$ is the traffic intensity.
+- If we just want queueing delay, we subtract off the time it takes to service the packet. $$\text{Queueing Delay} = \frac{S}{1 - U} - S$$
 - ***Takeaway***: if packets arrive faster than they can be disposed off, they may have to be dropped.

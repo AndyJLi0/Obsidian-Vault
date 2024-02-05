@@ -1,4 +1,4 @@
-*This note is for the 2024-01-17 lecture for CPSC 313*
+#security #cpsc313 *This note is for the 2024-01-17 lecture for CPSC 313*
 
 We can exploit the fact that you can (sometimes) write outside of a buffer, thus corrupting memory around it.
 

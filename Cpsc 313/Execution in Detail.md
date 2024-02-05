@@ -1,5 +1,4 @@
-*What must happen in each phase for each instruction*
-
+#sequential #cpsc313*What must happen in each phase for each instruction*
 #### rrmovq in three ways
 - R[rB] <- R[rA]
 - From implementation, we send rA into ValA, 0 into ValB, valE = valA. Then write valA into register rB.

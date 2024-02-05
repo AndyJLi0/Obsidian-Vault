@@ -1,4 +1,4 @@
-*instead of sequential execution of instructions, we can implement concurrent execution*
+#pipeline #cpsc313 *instead of sequential execution of instructions, we can implement concurrent execution*
 #### **Behold the laundry analogy:**
 >In regular laundry world, washer takes 40 minutes, time to change is 20 minutes, dryer takes 60 minutes. In magic laundry word, it takes 100 minutes for a load.
 

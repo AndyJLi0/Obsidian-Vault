@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1f98eb60083f4a2c",
+        "id": "7fd4f31334b76c1e",
         "type": "tabs",
         "children": [
           {
-            "id": "2b2512e24e06d4b1",
+            "id": "3bc49ace975daaea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-22.md",
-                "mode": "source",
+                "file": "Cpsc 317/Lost Segments and Timeouts.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-22.md",
+                "file": "Cpsc 317/Lost Segments and Timeouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-22.md",
+                "file": "Cpsc 317/Lost Segments and Timeouts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-22.md"
+                "file": "Cpsc 317/Lost Segments and Timeouts.md"
               }
             }
           },
@@ -147,56 +147,60 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false
+      "canvas:Create new canvas": false
     }
   },
-  "active": "2b2512e24e06d4b1",
+  "active": "3bc49ace975daaea",
   "lastOpenFiles": [
-    "README.md",
-    "TLD.md",
-    "2024-01-22.md",
-    "Assets/y86 rearranged.png",
-    "Cpsc 313/Pipeline Registers and Pipeline Stalling.md",
     "Cpsc 317/Computing Networking Definitions and Terms.md",
-    "Cpsc 317/Peer To Peer Applications.md",
-    "Cpsc 317/Packet Switching and Circuit Switching.md",
-    "Cpsc 317/Sockets.md",
-    "Cpsc 317/The HTTP Protocol.md",
-    "Cpsc 317/more delay worked problems.md",
     "Cpsc 317/internet.md",
     "Cpsc 317/Cookies.md",
-    "Cpsc 320/Divide and Conquer.md",
-    "Cpsc 313/y86 Pipelining.md",
-    "Cpsc 317/The DNS Protocol.md",
-    "Cpsc 317/The E-Mail Protocol.md",
-    "Stat 302/Conditional Probability.md",
-    "Stat 302/Set Operations, Axioms, and Formulas.md",
-    "Stat 302/Basics of Counting and Permutations.md",
-    "Stat 302/Probability Theory.md",
-    "Cpsc 313/Execution in Detail.md",
-    "Cpsc 313/y86 Instructions.md",
+    "Cpsc 317/Bottlenecks and Delay.md",
+    "Cpsc 317/Application-Layer Protocols.md",
+    "Cpsc 317/Lost Segments and Timeouts.md",
+    "Cpsc 317/State Machines and Reliability.md",
+    "Cpsc 317/Peer To Peer Applications.md",
+    "Cpsc 317/Packet Switching and Circuit Switching.md",
     "Cpsc 313/y86 Implementation Details.md",
     "Cpsc 313/y86 Buffer Overflow.md",
-    "Assets/Request-Response Diagram.png",
-    "Untitled.canvas",
-    "pipelineExample.md",
-    "Pasted image 20240124134459.png",
-    "Assets/DNS Lookup 1.png",
-    "Assets/DNS Hierarchy 1.png",
-    "Assets/pipelineExample.png",
+    "Cpsc 313/Pipeline Registers and Pipeline Stalling.md",
+    "Cpsc 313/Control Hazard.md",
+    "Cpsc 317/Sockets.md",
+    "Stat 302/Permutations.md",
+    "Stat 302/Combinations.md",
+    "Cpsc 317/The DNS Protocol.md",
+    "Cpsc 317/more delay worked problems.md",
+    "Cpsc 317/The HTTP Protocol.md",
+    "timeOut.png",
+    "Alternating Bit Protocol.png",
+    "Cpsc 317/The E-Mail Protocol.md",
+    "Cpsc 317/Transport Layer and UDP.md",
+    "Cpsc 317/The OSI Model.md",
+    "timeOutStateMachine.png",
+    "State Machine Example.png",
+    "dns State Machine.png",
+    "State Machine Example 2.png",
+    "Cpsc 320/Stable Matching Problem.md",
+    "Cpsc 320/Reduction.md",
+    "Untitled 6.canvas",
     "Untitled 5.canvas",
-    "Untitled 4.canvas",
-    "Cpsc 317/Application-Layer Protocols.md",
-    "Assets/y86 implementation.png",
-    "Untitled 3.canvas",
+    "Untitled.canvas",
     "Untitled 2.canvas",
-    "Assets",
+    "TLD.md",
+    "README.md",
+    "Assets/y86 stalling.png",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
     "Untitled 1.canvas",
+    "Assets/y86 rearranged.png",
+    "Assets/Request-Response Diagram.png",
+    "Pasted image 20240124134459.png",
+    "Assets",
     "remote/plugins/obsidian-style-settings/styles.css",
     "remote/plugins/obsidian-style-settings/manifest.json",
     "remote/plugins/obsidian-style-settings/main.js",

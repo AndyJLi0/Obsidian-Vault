@@ -1,3 +1,4 @@
+#protocol #Cpsc317 #applicationLayer
 ### Naming and Network Structure
 - Humans have the issue with having a hard time remembering numbers
 - Addresses can change

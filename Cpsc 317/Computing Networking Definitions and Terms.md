@@ -1,4 +1,4 @@
-*Basic definitions*
+#definitions #Cpsc317 *Basic definitions*
 - **Networks**: connection of computers by "wires" (virtual or physical)
 	- the [[internet]] is a network of networks
 - **Host:** or end system, the device at the end of a wire that can run an application.

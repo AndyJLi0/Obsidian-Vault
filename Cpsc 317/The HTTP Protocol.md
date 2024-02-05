@@ -1,3 +1,4 @@
+#protocol #Cpsc317 #applicationLayer #HTTP #pipeline
 ### Hypertext Transfer Protocol (HTTP)
 - HTTP is the Web's main application layer protocol
 - Client/server model

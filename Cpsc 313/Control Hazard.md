@@ -1,0 +1,1 @@
+**Control Hazard:** I don't know where to go yet because I don't have the information yet. More on [[Pipeline Registers and Pipeline Stalling#Other Control Flow Hazards]] 

@@ -23,6 +23,8 @@ The numerator is basically the region $A\cap B_i$, and the denominator is the to
 ### Independence
 - Events $A$ and $B$ are independent if 
 $$ P(A\cap B) = P(A)P(B)$$
+>[!info]
+>Note that is also true that $P(A \cap B^c) = P(A)P(B^c)$ and $P(A^c \cap B) = P(A^c)P(B)$
 - If $P(B) > 0$, independence implies that $$P(A|B) = P(A)$$
 - Therefore when $A$ and $B$ are independent, the knowledge of $B$ occurring does not change the probability of $A$. This is biconditional! They are "independent events".
 - **Theorem:** If $A$ and $B$ are independent, then so are $A^c$ and $B$. Explicitly:
@@ -33,3 +35,9 @@ $$P(A|B) = P(A) \implies P(A^c |B) = P(A^c)$$
 $$ P(A \cap B) = P(A)P(B)$$
 
 ### Conditional Independence
+
+**Definition:** Events $T_1, T_2, \ldots, T_n$ are conditionally independent given event $B$ if $$P(T_{i1} T_{i2} \dots T_{ik} | B) = P(T_{i1}|B)P(T_{i2}|B) \dots P(T_{ik}|B)$$
+>[!info]
+>Note in additional the the above note, is also true that conditional independence of $T_1 T_2$ given $B$, we have that: $P(T_1^c T_2 | B) = P(T_1^c| B) P(T_2| B)$ and vice versa with $T_1 , T_2^c$.
+- Conditional independence doesn't imply unconditional independence and vice versa.
+- Conditional independence given $B$ doesn't imply conditional independence given $B^c$.

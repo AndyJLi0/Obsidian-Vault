@@ -1,4 +1,4 @@
-*describe the architecture of  a peer to peer application, design goals for the bit-torrent protocol and block-chain protocols*
+#protocol #applicationLayer #Cpsc317*describe the architecture of  a peer to peer application, design goals for the bit-torrent protocol and block-chain protocols*
 
 # Bit-Torrent
 A p2p protocol for file sharing. Designed in 2001. Protocol v2 in 2017 (upgraded the has function).  Each node functions as **both** a consumer and provider of data.
@@ -27,7 +27,7 @@ Each peer would ask another peer: "I have these chunks, do you have these chunks
 ### Implementation
 - Bit-Torrent is an open protocol with many implementations
 	- Most use TCP as a transport mechanism
-	- Some use μTP – a UDP-based reliable transport protocol
+	- Some use uTP – a UDP-based reliable transport protocol
 ## Blockchain
 The purpose for blockchain is for an unmodifiable transaction history. It uses cryptography to ensure that records added to the history can never be changed or modified.
 - Centralized or decentralized. 

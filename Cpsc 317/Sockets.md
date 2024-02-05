@@ -1,3 +1,4 @@
+#cpsc317 #java
 ### What is a Socket?
 - A **socket** is one endpoint of a two-way communication link between two programs running on the network. A socket is bound to a port number so that the **TCP** (transport) layer can identity the application that data is destined to be sent to.
 - When a **client** tries to make a connection request to a **host** and gets accepted, the server gets a new socket bound to the same local port and has its remote endpoint set to the address and port of the client. 

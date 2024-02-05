@@ -1,3 +1,4 @@
+#practice #Cpsc317 
 >You are designing a satellite network. The satellites are 360km from the surface of the earth. The speed of light is 3x10^8 metres per second. Packets are 1300 bytes. The network has a transfer rate of 100Mbps. Assume the transmission delay for an ACK is 0ms, and that the processing and queueing delays are 0.
 
 - What is the one-way propagation delay for a bit in this network?
