@@ -5,7 +5,7 @@
 >- Retransmissions - to overcome errors
 >- Sequence Numbers - to detect duplicates
 ### Building a Reliable Protocol (V.2) 
-Continues from [[State Machines and Reliability#Version 1.1]]. We now consider if a data segment is lost, if a ACK is lost, and how to determine which one is which if one gets lost. 
+Continues from [[Protocol State Machines and Reliability#Version 1.1]]. We now consider if a data segment is lost, if a ACK is lost, and how to determine which one is which if one gets lost. 
 - Further need to know who determines this? Sender or receiver?
 	- We will handle lost segments with timeouts on the sender side. Every time the sender sends some data, it starts a timer and waits for the Receiver's ACK. When received, it cancels the timer and sends another one when more data is ready to send.
 
@@ -35,5 +35,11 @@ Using the alternating bit protocol, how much of the link are we actually using?
 > - The segment is sent only after an ACK from the receiver
 > 
 > We have a transmission time of $8000 / 10^9 = 0.008 ms$. Divide segment size by RTT and transmission time: $\frac{8000}{0.008 + 30} \cdot 1000 \approx 2.66 \times 10^5$. Take this value, divide by the Link speed to get a ratio, and then multiply by 100 to get a percent. we have that we use roughly $0.027 \%$ of the link!
+> 
+> Additional Question: How many segments would we need to get to speed to 1% of the link? 
+> 
+> We have $0.027\times n = 1$. We find $n = 37.03...$ So we round up to 38 total segments at a time to reach our desired 1 percent!
+
+
 
 This is horribly slow...

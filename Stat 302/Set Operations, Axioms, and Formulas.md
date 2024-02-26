@@ -21,7 +21,7 @@
 - $P(A \cup B) = P(A) + P(B) - P(A \cap B)$
 - $P(A\\B) = P(A) - P(B)
 
-
+  
 
 #### How to break down a Union
 - for $n= 2$, we have : $$P (A_1 ∪ A_2) = P (A_1) + P (A_2) − P (A_1 ∩ A_2)$$

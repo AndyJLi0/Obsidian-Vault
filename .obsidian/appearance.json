@@ -2,7 +2,7 @@
   "accentColor": "#1d9f90",
   "theme": "system",
   "cssTheme": "Minimal",
-  "baseFontSize": 16,
+  "baseFontSize": 17,
   "enabledCssSnippets": [
     "extended-colorschemes"
   ]

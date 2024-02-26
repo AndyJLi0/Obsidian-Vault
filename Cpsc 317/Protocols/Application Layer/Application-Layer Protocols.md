@@ -50,7 +50,7 @@ Here are some things to consider for services and how much they can tolerate it:
 
 
 ### Two Transport Options
-see [[Transport Layer and UDP]] for more info
+see [[Transport Layer]] for more info
 - **Reliable stream (TCP):** Connection, reliable ordered deliver, flow/congestion control, possible delays. 
 	- wonderful features, *no bound on delay.*
 - **Unreliable packet (UDP):** No connection, best effort, no flow/congestion control, no (Transport level  delay). (see [[The OSI Model]]) 

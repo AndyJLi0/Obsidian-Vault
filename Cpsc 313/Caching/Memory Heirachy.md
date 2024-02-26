@@ -1,0 +1,1 @@
+ - As memory locations get larger, the slower then 
