@@ -3,7 +3,7 @@ date: 2024-02-14
 tags:
   - "#TransportLayer"
 ---
-*Selective repeat tries to overcome the two limitations of Go Back N (a sliding window protocol).
+*Selective repeat tries to overcome the two limitations of Go Back N([[Windowing Protocols]]) (a sliding window protocol).
 
 ### Receiver:
 - Each segment is ack'ed individually
